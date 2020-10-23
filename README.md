@@ -7,3 +7,5 @@ practice basic function in tensorflow
 [constant.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/constant.py)
 ### eager执行测试
 [eager.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/eager.py)
+### eager中求解梯度
+[gradient.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gradient.py)
