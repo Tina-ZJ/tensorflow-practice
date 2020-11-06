@@ -1,5 +1,5 @@
 # tensorflow-practice
-practice basic function in tensorflow
+basic scripts with tensorflow 
 
 ### tensorboard
 [tensorboard.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensorboard.py)
@@ -9,3 +9,5 @@ practice basic function in tensorflow
 [eager.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/eager.py)
 ### eager中求解梯度
 [gradient.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gradient.py)
+### tf.gradients求解梯度
+[gradients_chain.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gradients_chain.py)
