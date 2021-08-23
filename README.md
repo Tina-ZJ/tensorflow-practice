@@ -13,3 +13,7 @@ basic scripts with tensorflow
 [gradients_chain.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gradients_chain.py)
 ### 测试tf.nn.embedding_lookup和tf.gather速度
 [test_lookup.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/test_lookup.py)
+### tf.argsort
+[argsort.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/argsort.py)
+### tf.argmax
+[argmax.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/argmax.py)
