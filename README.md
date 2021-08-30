@@ -19,3 +19,5 @@ basic scripts with tensorflow
 [argmax.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/argmax.py)
 ### tf.assign 对一个variable node进行赋值
 [assign.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/assign.py)
+### tf.case 条件判断选择
+[case.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/case.py)
