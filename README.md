@@ -21,3 +21,7 @@ basic scripts with tensorflow
 [assign.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/assign.py)
 ### tf.case 条件判断选择
 [case.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/case.py)
+### tf.cast tensor数据类型转换
+[cast.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/cast.py)
+### tf.clip_by_norm 将tensor值修剪到最大为L2-norm
+[clip_by_norm.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/clip_by_norm.py)
