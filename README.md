@@ -25,3 +25,9 @@ basic scripts with tensorflow
 [cast.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/cast.py)
 ### tf.clip_by_norm 将tensor值修剪到最大为L2-norm
 [clip_by_norm.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/clip_by_norm.py)
+### tf.clip_by_value 将tensor值归一化到min和max之间
+[clip_by_value.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/clip_by_value.py)
+### tf.concat 将tensor拼接
+[concat.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/concat.py)
+### tf.cond 条件语句,if else作用
+[cond.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/cond.py)
