@@ -31,3 +31,9 @@ basic scripts with tensorflow
 [concat.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/concat.py)
 ### tf.cond 条件语句,if else作用
 [cond.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/cond.py)
+### tf.dynamic_partition 对data进行分片处理
+[dynamic_partition.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/dynamic_partition.py)
+### tf.constant 常量constant定义
+[constant_v2.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/constant_v2.py)
+### tf.convert_to_tensor 将numpy arrays, python list, scalar转tensor
+[convert_to_tensor.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/convert_to_tensor.py)
