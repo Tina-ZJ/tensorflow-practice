@@ -37,3 +37,7 @@ basic scripts with tensorflow
 [constant_v2.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/constant_v2.py)
 ### tf.convert_to_tensor 将numpy arrays, python list, scalar转tensor
 [convert_to_tensor.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/convert_to_tensor.py)
+### tf.ensure_shape 检查tensor的shape，若不符合，则会抛出异常
+[ensure_shpe.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/ensure_shape.py)
+### tf.expand_dims 将tensor的扩展维度
+[expand_dims.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/expand_dims.py)
