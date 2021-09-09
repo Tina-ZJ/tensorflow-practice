@@ -41,3 +41,7 @@ basic scripts with tensorflow
 [ensure_shpe.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/ensure_shape.py)
 ### tf.expand_dims 将tensor的扩展维度
 [expand_dims.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/expand_dims.py)
+### tf.eye 生成单位矩阵，对角元素为1，其它为0
+[eye.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/eye.py)
+### tf.fill 用给定的值生成tensor
+[fill.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/fill.py)
