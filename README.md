@@ -45,3 +45,5 @@ basic scripts with tensorflow
 [eye.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/eye.py)
 ### tf.fill 用给定的值生成tensor
 [fill.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/fill.py)
+### tf.gather 根据索引取tensor值
+[gather.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gather.py)
