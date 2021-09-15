@@ -47,3 +47,7 @@ basic scripts with tensorflow
 [fill.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/fill.py)
 ### tf.gather 根据索引取tensor值
 [gather.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/gather.py)
+### tf.get_current_name_scope 获取当前的scope name
+[get_current_name_scope.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/get_current_name_scope.py)
+### tf.get_static_value 获取tensor的值，得到numpy ndarray值
+[get_static_value.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/get_static_value.py)
