@@ -51,3 +51,5 @@ basic scripts with tensorflow
 [get_current_name_scope.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/get_current_name_scope.py)
 ### tf.get_static_value 获取tensor的值，得到numpy ndarray值
 [get_static_value.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/get_static_value.py)
+### tf.identity 返回和输入形状和内容一样的tensor
+[identity.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/identity.py)
