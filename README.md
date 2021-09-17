@@ -53,3 +53,7 @@ basic scripts with tensorflow
 [get_static_value.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/get_static_value.py)
 ### tf.identity 返回和输入形状和内容一样的tensor
 [identity.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/identity.py)
+### tf.is_tensor 检查python object是否是tensor type
+[is_tensor.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/is_tensor.py)
+### tf.linspace 相当于python range函数
+[linspace.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/linspace.py)
