@@ -57,3 +57,7 @@ basic scripts with tensorflow
 [is_tensor.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/is_tensor.py)
 ### tf.linspace 相当于python range函数
 [linspace.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/linspace.py)
+### tf.make_ndarray 将tensorProto的值返回为一个numpy array
+[make_ndarray.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/make_ndarray.py)
+### tf.map_fn 将输入的tensor的每个元素用给定的函数fn进行变化
+[map_fn.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/map_fn.py)
