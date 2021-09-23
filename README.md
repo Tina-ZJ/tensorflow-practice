@@ -61,3 +61,5 @@ basic scripts with tensorflow
 [make_ndarray.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/make_ndarray.py)
 ### tf.map_fn 将输入的tensor的每个元素用给定的函数fn进行变化
 [map_fn.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/map_fn.py)
+### tf.norm 计算tensor的norms，支持(l1, l2, inf-norm, euclidean)
+[norm.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/norm.py)
