@@ -63,3 +63,5 @@ basic scripts with tensorflow
 [map_fn.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/map_fn.py)
 ### tf.norm 计算tensor的norms，支持(l1, l2, inf-norm, euclidean)
 [norm.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/norm.py)
+### tf.one_hot 根据索引值，返回one-hot tensor
+[one_hot.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/one_hot.py)
