@@ -65,3 +65,9 @@ basic scripts with tensorflow
 [norm.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/norm.py)
 ### tf.one_hot 根据索引值，返回one-hot tensor
 [one_hot.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/one_hot.py)
+### tf.ones 生成一个tensor，所有元素值为1
+[ones.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/ones.py)
+### tf.ones_like 生成一个和输入tensor一样的shap，并且所有元素值为1
+[ones_like.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/ones_like.py)
+### tf.parallel_stack 对输入的List tensor进行stack
+[parallel_stack.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/parallel_stack.py)
