@@ -71,3 +71,7 @@ basic scripts with tensorflow
 [ones_like.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/ones_like.py)
 ### tf.parallel_stack 对输入的List tensor进行stack
 [parallel_stack.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/parallel_stack.py)
+### tf.print 打印tensor
+[print.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/print.py)
+### normal and uniform initializer初始化
+[initializer.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/initializer.py)
