@@ -75,3 +75,9 @@ basic scripts with tensorflow
 [print.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/print.py)
 ### normal and uniform initializer初始化
 [initializer.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/initializer.py)
+### tf中的range函数
+[range.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/range.py)
+### 求一个tensor的秩
+[rank.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/rank.py)
+### 两个数相除
+[realdiv.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/realdiv.py)
