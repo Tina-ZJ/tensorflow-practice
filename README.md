@@ -81,3 +81,7 @@ basic scripts with tensorflow
 [rank.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/rank.py)
 ### 两个数相除
 [realdiv.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/realdiv.py)
+### 对输入tensor做repeat操作
+[repeat.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/repeat.py)
+### 对输入tensor做reshape操作
+[reshape.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/reshape.py)
