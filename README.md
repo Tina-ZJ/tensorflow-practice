@@ -85,3 +85,7 @@ basic scripts with tensorflow
 [repeat.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/repeat.py)
 ### 对输入tensor做reshape操作
 [reshape.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/reshape.py)
+### 对输入tensor做reverse操作
+[reverse.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/reverse.py)
+### 对输入tensor进行scan转换操作
+[scan.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/scan.py)
