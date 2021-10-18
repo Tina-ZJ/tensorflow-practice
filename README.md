@@ -89,3 +89,7 @@ basic scripts with tensorflow
 [reverse.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/reverse.py)
 ### 对输入tensor进行scan转换操作
 [scan.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/scan.py)
+### 得到一个mask tensor
+[sequence_mask.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/sequence_mask.py)
+### 求一个tensor的shape
+[shape.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/shape.py)
