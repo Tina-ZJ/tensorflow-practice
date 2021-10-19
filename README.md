@@ -93,3 +93,7 @@ basic scripts with tensorflow
 [sequence_mask.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/sequence_mask.py)
 ### 求一个tensor的shape
 [shape.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/shape.py)
+### 求一个tensor的元素数量
+[size.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/size.py)
+### 从一个tensor抽取对应的区域范围
+[slice.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/slice.py)
