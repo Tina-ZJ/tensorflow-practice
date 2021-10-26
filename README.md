@@ -97,3 +97,7 @@ basic scripts with tensorflow
 [size.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/size.py)
 ### 从一个tensor抽取对应的区域范围
 [slice.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/slice.py)
+### 对tensor排序
+[sort.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/sort.py)
+### 对tensor分割
+[split.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/split.py)
