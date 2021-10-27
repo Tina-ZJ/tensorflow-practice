@@ -101,3 +101,7 @@ basic scripts with tensorflow
 [sort.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/sort.py)
 ### 对tensor分割
 [split.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/split.py)
+### 对tensor的size为1的dimension去掉
+[squeeze.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/squezze.py)
+### 对tensor进行stack
+[stack.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/stack.py)
