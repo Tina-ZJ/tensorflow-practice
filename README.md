@@ -105,3 +105,7 @@ basic scripts with tensorflow
 [squeeze.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/squezze.py)
 ### 对tensor进行stack
 [stack.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/stack.py)
+### stop_gradient操作, 对一个tensor梯度屏蔽
+[stop_gradient.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/stop_gradient.py)
+### switch_case操作, 进行分支函数选择
+[switch_case.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/switch_case.py)
