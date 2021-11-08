@@ -109,3 +109,7 @@ basic scripts with tensorflow
 [stop_gradient.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/stop_gradient.py)
 ### switch_case操作, 进行分支函数选择
 [switch_case.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/switch_case.py)
+### tensor_scatter_nd_add按照索引对一个tensor进行加值操作
+[tensor_scatter_nd_add.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensor_scatter_nd_add.py)
+### tensor_scatter_nd_update按照索引对一个tensor的值进行update操作
+[tensor_scatter_nd_update.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensor_scatter_nd_update.py)
