@@ -1,7 +1,7 @@
 import tensorflow as tf
-import tensorflow.contrib.eager as tfe
-tfe.enable_eager_execution()
-
+#import tensorflow.contrib.eager as tfe
+#tfe.enable_eager_execution()
+tf.executing_eagerly()
 
 
 def constant():
@@ -15,9 +15,12 @@ def constant():
 		a constant tensor
 	'''
 	# if shape is set, the value is reshaped to match. Scalars are expanded to fill the shape
-	a = tf.constant(0, dtype=tf.float32, shape=(2,3))
+	#a = tf.constant(-1, dtype=tf.float32, shape=(3,1))
+	a = tf.constant([[-1],[1],[0]])
 	print(a)
-
+	print(tf.transpose(a))
+	t = a - tf.transpose(a)
+	print(t)
 
 
 if __name__=='__main__':
