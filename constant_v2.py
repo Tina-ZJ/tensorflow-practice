@@ -1,7 +1,5 @@
 import tensorflow as tf
-#import tensorflow.contrib.eager as tfe
-#tfe.enable_eager_execution()
-tf.executing_eagerly()
+tf.enable_eager_execution()
 
 
 def constant():
