@@ -113,3 +113,5 @@ basic scripts with tensorflow
 [tensor_scatter_nd_add.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensor_scatter_nd_add.py)
 ### tensor_scatter_nd_update按照索引对一个tensor的值进行update操作
 [tensor_scatter_nd_update.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensor_scatter_nd_update.py)
+### tensordot对tensor a 和b按照axes进行dot乘积
+[tensordot.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensordot.py)
