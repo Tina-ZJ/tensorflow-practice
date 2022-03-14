@@ -115,3 +115,9 @@ basic scripts with tensorflow
 [tensor_scatter_nd_update.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensor_scatter_nd_update.py)
 ### tensordot对tensor a 和b按照axes进行dot乘积
 [tensordot.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tensordot.py)
+### 对tensor进行multipies操作
+[tile.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/tile.py)
+### 求时间戳
+[timestamp.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/timestamp.py)
+### 对tensor进行转置
+[transpose.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/transpose.py)
