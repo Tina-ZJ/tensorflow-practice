@@ -121,3 +121,5 @@ basic scripts with tensorflow
 [timestamp.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/timestamp.py)
 ### 对tensor进行转置
 [transpose.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/transpose.py)
+### 对tensor进行除法以及求余
+[truncatemod_div.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/truncatemod_div.py)
