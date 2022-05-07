@@ -123,3 +123,5 @@ basic scripts with tensorflow
 [transpose.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/transpose.py)
 ### 对tensor进行除法以及求余
 [truncatemod_div.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/truncatemod_div.py)
+### 对tensor进行去重并且获得索引
+[unique.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/unique.py)
