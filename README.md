@@ -125,3 +125,11 @@ basic scripts with tensorflow
 [truncatemod_div.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/truncatemod_div.py)
 ### 对tensor进行去重并且获得索引
 [unique.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/unique.py)
+### 对tensor进行去重并且对元素计数
+[unique_with_counts.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/unique_with_counts.py)
+### 将一维的array索引转成坐标数组元组
+[unravel_index.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/unravel_index.py)
+### 对tensor进行unstack
+[unstack.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/unstack.py)
+### 返回non-zero的元素索引或者对x和y根据condition进行取值，
+[where.py](https://github.com/Tina-ZJ/tensorflow-practice/blob/main/where.py)
